@@ -11,4 +11,4 @@
 ├── NFL_Game_Data.csv # Core dataset for model input
 ├── Preprocessing.ipynb # Feature engineering and transformation
 ├── README.md # This file
-├── Team_Stats.csv # Discard dataset from earlier version
+├── Team_Stats.csv # Deprecated -no longer used, dataset from earlier version
